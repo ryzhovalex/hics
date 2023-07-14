@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Slimebones.Hics {
+namespace SlimeBones.Hics {
     class Program {
         static void Main(string[] args) {
             // CallQuickSort();
