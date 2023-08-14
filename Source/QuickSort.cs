@@ -1,4 +1,4 @@
-namespace SlimeBones.Hics {
+namespace Slimebones.Hics {
     public static class QuickSort {
         /// <summary>
         /// Sorts the array using Quick Sort method.

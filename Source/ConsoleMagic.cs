@@ -1,6 +1,6 @@
 using System;
 
-namespace SlimeBones.Hics {
+namespace Slimebones.Hics {
     /// <summary>
     /// Various console research.
     /// </summary>
