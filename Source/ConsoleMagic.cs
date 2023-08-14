@@ -38,7 +38,7 @@ namespace Slimebones.Hics {
         /// Echoes all input back to console.
         /// </summary>
         public static void Parrot() {
-            string? message = "";
+            string message = "";
 
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Talk to Parrot! To quit type \"q\".");
