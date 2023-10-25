@@ -1,4 +1,4 @@
-namespace Slimebones.Hics {
+namespace Ryzhovalex.Hics {
     public class Person {
         private string name;
         private int age;

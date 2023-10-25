@@ -1,9 +1,9 @@
 ﻿using System;
 
-namespace Slimebones.Hics {
-    class Program {
+namespace Ryzhovalex.Hics {
+    class Boot {
         public static void Main(string[] args) {
-            CallPersonEvents();
+            TestLINQ.Run();
         }
 
         /// <summary>

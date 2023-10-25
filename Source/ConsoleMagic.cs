@@ -1,6 +1,6 @@
 using System;
 
-namespace Slimebones.Hics {
+namespace Ryzhovalex.Hics {
     /// <summary>
     /// Various console research.
     /// </summary>

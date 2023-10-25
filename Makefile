@@ -1,2 +1,2 @@
-dev:
+run:
 	dotnet run
